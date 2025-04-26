@@ -1,6 +1,7 @@
 # Project-AmericanBullfrog
 Cortex-M3 기반의 STM32F 보드와 LCD를 활용한 C++ 기반의 미니게임 프로젝트
 
+![image](https://github.com/user-attachments/assets/e6a6f9b3-dc64-4717-a579-ddcf79b94cd1)
 
 
 아래 프로젝트 설명은 버전1을 기반.
