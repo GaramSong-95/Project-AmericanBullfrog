@@ -6,10 +6,26 @@ Cortex-M3 기반의 STM32F 보드와 LCD를 활용한 C++ 기반의 미니게임
 
 아래 프로젝트 설명은 버전1을 기반.
 버전2는 추가적으로 차량에 부딪히면 옆으로 밀리는 로직 구현
+
+
+
 ## 1.프로젝트 개요
 **본 프로젝트는 Cortex-M3 기반의 STM32F 보드와 LCD를 활용하여 C++로 개발한 피하기 형식의 미니게임입니다. 프레임버퍼 기술을 활용해 LCD에 그래픽을 직접 구현하였으며, 조이스틱과 버튼을 통해 개구리 캐릭터를 조작하는 구조입니다. 객체지향 프로그래밍의 장점을 살려 개구리, 자동차, 총알 등의 게임 요소를 클래스 단위로 구현하였으며, 게임 구조와 기능의 확장성을 고려해 설계하였습니다.**
 
 ## 2.개발 환경 및 도구
+
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32">
+  <img src="https://img.shields.io/badge/Embedded%20C-008080?style=for-the-badge" alt="Embedded C">
+  <img src="https://img.shields.io/badge/LCD%20Display-000000?style=for-the-badge" alt="LCD Display">
+  <img src="https://img.shields.io/badge/Joystick-808080?style=for-the-badge" alt="Joystick">
+  <img src="https://img.shields.io/badge/Interrupt-FF6347?style=for-the-badge" alt="Interrupt">
+  <img src="https://img.shields.io/badge/Timer-FFD700?style=for-the-badge" alt="Timer">
+  <img src="https://img.shields.io/badge/OOP%20Design-800080?style=for-the-badge" alt="OOP">
+</p>
+
 MCU: STM32F 시리즈 (Cortex-M3 기반)
 
 언어: C++
